@@ -30,6 +30,33 @@ I) Quelle République pour la France?
 A) La IVe République : un régime mal-aimé
 1 - La difficile refondation républicaine
 
-La IVe République est un régime parlementaire: L'assemblée Nationale est la seule institution élue par les citoyens. Le Président, nommé ensuite par l'Assemblée, ne possèque q'un rôle symbolique (incarnation de l'état, représentant de ce dernier sur la scène internationale...).
+La IVe République est un régime parlementaire: L'assemblée Nationale est la seule institution élue par les citoyens. Le Président, nommé ensuite par l'Assemblée, ne possèque q'un rôle symbolique (incarnation de l'état, représentant de ce dernier sur la scène internationale...) : la clef du pouvoir n'est donc pas l'exécutif, mais le législatif.
 
 Cette IVe République fut très instable, ce qui s'explique par le mode de scrutin: le vote "à la proportionnelle". Pour gouverner efficacement, les coallitions sont de mise, mais celles-ci sont plus que fragiles de par les différences d'opinions en leur sein même dues à leur taille dantesque nécéssaire à l'obtention d'une majorité ainsi que les enjeux très polarisants que la IVe République doit traiter (Reconstruction, positionnement géopolitique...) ; sur tous ces sujets, il est difficile de maintenir une uniformité des opinions: les coallitions ne tiennent pas.
+
+
+B) Une république modernisatrice
+Malgré son apparence instable, la IVe République a rapidement su non seulement reconstruire la France de l'Après-Guerre mais également la moderniser.
+
+On assiste alors à l'implémentation de mesures sociales:
+	- Sécurité sociale
+	- SMIG (SMIC de l'époque)
+	- Allongement des Congés payés
+	- Logements sociaux (à l'époque d'un très bon niveau de vie (eau courante, électricité...))
+
+L'Etat lui-même cherche à prendre en main l'économie française afin de la moderniser: il nationalise certaines entreprises (Renault, Crédit Lyonnais...) dans les secteurs des finances, de l'énergie et des transports afin de les contrôler. Est mis en place le Commisariat au plan - dirigé entre autres par Jean Monnet: un organisme d'état permettant la détermination de grands axes d'améliorations dans un futur relativement proche.
+
+Si cette IVe République semble instable aux yeux de la population française (notamment aujourd'hui propagée par la Ve République dans le but évident de ne pas se décrédibiliser), le président - qui n'a pas tellement de pouvoir concret - n'est qu'une façade car les ministres et députés sont souvent les mêmes.
+
+
+C) La Ve République: un nouveau modèle politique
+
+	La Ve République est mise en place d'une manière singulière: l'Armée met, après avoir effectué un coup d'état en Algérie Française, une pression afin que Charles de Gaulle - un général, arrive à la tête du pouvoir français. De Gaulle accepte de revenir au pouvoir, à la condition de pouvoir rédiger une nouvelle constitution ; les parlementaires acceptent sous l'impulsion de la menace de l'Armée menaçant d'un coup d'état en France métropolitaine.
+	A la suite d'un référendum en 1958 précédé d'une large campagne de promotion, la nouvelle constitution est acceptée.
+
+	On assiste alors à une "présidentialisation" du pouvoir: là où la IVe République se focalisait sur ses parlementaires, la Ve choisit de renforcer l'exécutif:
+		- Le Président nomme son Premier Ministre (et par extension son gouvernement)
+		- Il peut obtenir les pleins pouvoirs en cas de situation de crise aggravée (article 16 de la Constitution)
+		- Il peut dissoudre l'Assemblée Nationale, décréter et user du fameux "49.3"
+		- Il peut directement consulter le peuple via référendum (seulement par "OUI" ou par "NON")
+	Contrairement à la précédente République, le Président est élu, ce qui légitimise le fait de gouverner seul non pas PAR le peuple mais POUR le peuple.
