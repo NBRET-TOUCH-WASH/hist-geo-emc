@@ -34,6 +34,10 @@ Mme Arpel veut caser son frère avec sa voisine; à cette fin, elle organise une
 
 ### Comment interpréter le départ de M. Hulot, de façon plus générale? Comment ceci est-il mis en scène?
 
+Symboliquement, le départ de M. Hulot incarne la fin d'un ancien monde; à chaque passage de M. Harpel dans le vieux quartier, on observe un chantier de construction (le vieux quartier est progressivement rénové).
+
 &nbsp;
 
 ### Comment interpréter cette fin: nostalgie, espoir?
+
+Cette fin est très nostalgique et indique comment le réalisateur semble rêver d'un monde qu'il trouvait plus humain, maintenant un simple souvenir flou au travers d'un rideau.
